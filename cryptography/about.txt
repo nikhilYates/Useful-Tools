@@ -1,0 +1,2 @@
+- Program I wrote to understand HTML, Base64, Hex and URL encoding
+- Functions written in JS, run as a web page (dev done in HTML, CSS)
