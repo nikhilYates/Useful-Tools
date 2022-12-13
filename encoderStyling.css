@@ -1,0 +1,32 @@
+body {
+
+background-color:rgb(255, 255, 255);
+text-align: center;
+
+}
+
+button {
+    height: 100px;
+    width: 200px;
+    color: rgb(19, 9, 58);
+}
+
+#textClear {
+
+    height: auto;
+    width: auto;
+    color: rgb(19, 9, 58);
+}
+
+input {
+
+    width: 750px;
+}
+
+#reset {
+
+    height: auto;
+    width: auto;
+    color: rgb(19, 9, 58);
+
+}
